@@ -1,3 +1,10 @@
+/*
+ * jQuery Sticky
+ * https://github.com/proximity/jquery-sticky-sidebar
+ * Copyright 2015 Proximity Wellington
+ * Licensed under MIT
+*/
+
 (function($) {
 	var Sticky = function(element, options) {
 		this.options = $.extend({}, Sticky.defaults, options);
