@@ -4,7 +4,8 @@
 jQuery Sticky Sidebar is a sidebar system developed to work with long
 and/or infinte scrolling pages. 
 Unlike affix, Sticky Sidebar takes into consideration the length of the
-fixed container.
+fixed container. [Checkout the
+demo](http://proximity.github.io/jquery-sticky-sidebar/)
 
 ## Usage
 <pre>
@@ -26,7 +27,6 @@ fixed container.
 	};
 </pre>
 
-## Demo
 
 
 
